@@ -9,12 +9,14 @@
     height: 250px;
     margin-left: 50px;
     margin-top: auto;
+    margin-bottom: 30px ;
   }
 
  .menu {
-    padding: 50px 70px 30px 70px;
+    padding: 30px 70px 30px 70px;
     font-size: medium;
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-align: center;
   }
   
   .navbar > ul > a:hover {
@@ -110,8 +112,8 @@ margin-bottom: 30px;
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
   
-  .hero .hero h2,
-  .hero .hero p {
+  .hero .wrap h2,
+  .hero .wrap p {
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
@@ -131,8 +133,10 @@ margin-bottom: 30px;
     font-size: small;
     text-align: center;
   }
+
 h2{
-padding: 10px 5px 25px 5px;
+  text-align: center;
+  padding: 0px 5px 0px 5px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
